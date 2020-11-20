@@ -1,5 +1,5 @@
-echo "Author: Bayu Putra Tama" | lolcat -a -d 2
-echo "Tools Install Tombol Panah" | lolcat -a -d 1
+echo "Author: Bayu Putra Tama"
+echo "Tools Install Tombol Panah"
 echo "Sedang Menginstall Bahan" 
 
 
