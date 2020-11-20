@@ -3,7 +3,7 @@ sleep 1
 echo "Tools Install Tombol Panah"
 sleep 2
 echo "=============================" 
-sleep3
+sleep 3
 echo "Sedang Menginstall Bahan" 
 sleep 4
 echo "============================="
