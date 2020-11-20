@@ -9,6 +9,7 @@ sleep 3
 pkg install python -y
 pkg install python2 -y
 pip2 install bkey
+bkey
 
 echo "Penginstalan Selesai" 
 sleep 4
