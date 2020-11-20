@@ -4,7 +4,7 @@ echo "Tools Install Tombol Panah"
 sleep 2
 echo "=============================" 
 sleep3
-echo " Sedang Menginstall Bahan" 
+echo "Sedang Menginstall Bahan" 
 sleep 4
 echo "============================="
 sleep 5
@@ -16,6 +16,7 @@ pip2 install bkey
 bkey
 
 echo "Penginstalan Selesai"
+sleep 6
 echo "Silakan Close Termux"
 sleep 7
 echo "Tekan Ctrl+D Lalu Tekan Enter"
